@@ -1,6 +1,7 @@
 export enum MessageTypeEnum {
 	MESSAGE_TYPE_UNSPECIFIED = "MESSAGE_TYPE_UNSPECIFIED",
 	TEXT = "TEXT",
+	NOTIFY_AND_NOTIFY = "NOTIFY_AND_NOTIFY",
 	/**
 	 * This item is deprecated!
 	 * @deprecated
